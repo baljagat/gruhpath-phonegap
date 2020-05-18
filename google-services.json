@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900737773501",
+    "firebase_url": "https://gruhpathmobile.firebaseio.com",
+    "project_id": "gruhpathmobile",
+    "storage_bucket": "gruhpathmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900737773501:android:9838ddf9013bf496632cd4",
+        "android_client_info": {
+          "package_name": "com.gruhpath.gruhpathmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900737773501-bnlqdegindhp1gn7kqmo299ergrngmmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhR5tNHwGR8hTJblLt3cR6CjLVVgN51Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900737773501-bnlqdegindhp1gn7kqmo299ergrngmmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
